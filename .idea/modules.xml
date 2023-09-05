@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lab1/Lab1.iml" filepath="$PROJECT_DIR$/Lab1/Lab1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VT.iml" filepath="$PROJECT_DIR$/VT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab1/by/bsuir/aleksandrov/task12-16/task12-16.iml" filepath="$PROJECT_DIR$/Lab1/by/bsuir/aleksandrov/task12-16/task12-16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab1/by/bsuir/aleksandrov/task9/task9.iml" filepath="$PROJECT_DIR$/Lab1/by/bsuir/aleksandrov/task9/task9.iml" />
+    </modules>
+  </component>
+</project>
